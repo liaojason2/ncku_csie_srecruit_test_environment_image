@@ -9,6 +9,8 @@ Creating a VM cost lots of time, and the container is more lightweight. So it wi
 
 ## Quickstart
 
+- Command line
+
 ```sh
 # Pull image 
 docker pull ghcr.io/liaojason2/ncku_csie_srecruit_test_environment_image:latest
@@ -32,6 +34,11 @@ docker run -it -v ~/ncku:/ncku --name ncku_srecruit_container ncku_csie_srecruit
 # Use container you create
 docker exec -it ncku_srecruit_container bash
 ```
+
+- Dev with VSCode [Dev Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+
+- ![Dev Container](assets/Dev_Container_Screenshot.png)
+
 
 ## Reference
 
