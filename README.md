@@ -28,7 +28,7 @@ unzip ncku_csie_srecruit_112_example.zip
 rm ncku_csie_srecruit_112_example.zip
 
 # Run container
-docker run -it -v "~/ncku":"/ncku" --name ncku_srecruit_container ncku_csie_srecruit_test_enviorment_container_image bash
+docker run -it -v ~/ncku:/ncku --name ncku_srecruit_container ncku_csie_srecruit_test_enviorment_container_image bash
 
 # Use container you create
 docker exec -it ncku_srecruit_container bash
