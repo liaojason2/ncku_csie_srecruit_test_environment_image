@@ -12,7 +12,7 @@ Create a VM too waste time, container is more lightweight, I think it is a great
 
 ```sh
 # Pull image 
-docker pull gchr.io/liaojason2/ncku_csie_srecruit_test_environment_image:latest
+docker pull ghcr.io/liaojason2/ncku_csie_srecruit_test_environment_image:latest
 
 # Create and enter a folder
 mkdir ~/ncku
