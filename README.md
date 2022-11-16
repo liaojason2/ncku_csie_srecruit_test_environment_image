@@ -1,12 +1,11 @@
 # 2022 NCKU CSIE Second Group Entrance Test Environment Docker Container Image
 
 Practice entrance test in container.  
-I'm not responsibility to anything about test (container environment doesn't correct ..).
 
 ## Background
 
-I try to run some practice file on my computer (Apple Macbook Pro 14 inch with M1 Pro chip), but result doesn't expect as documents, I need a similar environment to practice.  
-Create a VM too waste time, container is more lightweight, I think it is a great solution.  
+I try to run some practice files on my computer (Apple Macbook Pro 14 inch with M1 Pro chip), but the result doesn't expect as documents. I need a similar environment to practice.  
+Creating a VM cost lots of time, and the container is more lightweight. So it will be a great solution.
 
 ## Quickstart
 
