@@ -1,5 +1,8 @@
 FROM ubuntu:focal
 
+COPY LICENSE .
+COPY README .
+
 # Update package list  
 RUN apt-get update -y
 
