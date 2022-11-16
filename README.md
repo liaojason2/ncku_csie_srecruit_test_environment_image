@@ -4,7 +4,7 @@ Practice entrance test in container.
 
 ## Background
 
-I try to run some practice files on my computer (Apple Macbook Pro 14 inch with M1 Pro chip), but the result doesn't expect as documents. I need a similar environment to practice.  
+I tried to run some practice files on my computer (Apple Macbook Pro 14 inch with M1 Pro chip), but the result doesn't expect as documents. I need a similar environment to practice.  
 Creating a VM cost lots of time, and the container is more lightweight. So it will be a great solution.
 
 ## Quickstart
