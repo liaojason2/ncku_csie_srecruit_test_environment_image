@@ -18,7 +18,7 @@ mkdir ~/ncku
 cd ~/ncku
 
 # Download test example code
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1801_EqJtAXZo_RkNC6Nbk0XMBJ5X82Zk' -O "ncku_csie_srecruit_112_example.zip"                                                                             ✔  at 1
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1801_EqJtAXZo_RkNC6Nbk0XMBJ5X82Zk' -O "ncku_csie_srecruit_112_example.zip"
 
 # Unzip 
 unzip ncku_csie_srecruit_112_example.zip
